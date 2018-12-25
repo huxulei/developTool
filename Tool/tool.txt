@@ -1,0 +1,8 @@
+1、notepad ++
+2、Git-2.10.1-64-bit.exe
+3、SourceTreeSetup-3.0.12.exe
+4、jdk-8u161-windows-x64.exe
+5、eclipse 賜宀 IDEA
+6、apache-tomcat-8.0.47.zip
+7、MySQL
+8、Webyog SQLyog Ultimate 12.0.8.0.zip
